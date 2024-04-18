@@ -21,7 +21,7 @@ redirect_from:
 # Selected Experience
 
 ## 📚 Academia
-As a graduate student in data science, I delve into the intricacies of applied and computational statistics, alongside mastering machine learning, data mining, IoT, and database management systems, fostering a deep understanding of data-driven solutions.
+In order to develop a thorough grasp of data-driven solutions, as a graduate student in data science, I study the complexities of applied and computational statistics in addition to machine learning, data mining, the Internet of Things, and database management systems.
 
 ## 🔧 Professional Experience
 As a **Junior Full Stack Developer** at Cognizant Technology Solutions, I spearheaded the development of a sophisticated chatbot solution for a Java application, achieving a notable reduction in end-user problems by up to 60% and enhancing overall customer experience by 40%. Leveraging NLTK, lemmatization, and scikit-learn packages, I crafted a versatile chatbot capable of addressing diverse user queries, alongside curating a comprehensive question bank to cover all application scenarios. Simultaneously, as a **Full Stack Developer Intern**, I underwent intensive training and collaborated to develop an E-commerce website using Angular and NodeJS (MEAN stack), significantly improving user experience and boosting API productivity by 30%. These experiences have equipped me with a diverse skill set in full-stack development, machine learning, and user-centric design, poised to tackle complex challenges in the tech industry.
